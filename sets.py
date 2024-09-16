@@ -1,0 +1,1 @@
+#imutabile, imodificabile, nu au duplicatesetul = {1, 5 , 8}#ORsetul_2 = {1, 2, "item 1", 979, 5, 2}setul_2.add(85)print(setul_2)print(setul_2 - setul)print(setul_2.union(setul))print(setul_2.intersection(setul))
